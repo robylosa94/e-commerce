@@ -1,3 +1,15 @@
 .root {
-    color: red;
+
+    &>a,
+    &>button {
+        @apply flex items-center justify-center text-center h-12 rounded-md;
+    }
+}
+
+.primary {
+
+    &>a,
+    &>button {
+        @apply bg-gradient-to-t from-primary to-primarylight text-white;
+    }
 }
