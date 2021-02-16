@@ -1,10 +1,10 @@
 {
-    "title": "E-commerce",
+    "title": "Next-commerce",
     "description": "",
     "openGraph": {
         "type": "website",
         "locale": "it_IT",
         "url": "https://next-commerce.it",
-        "site_name": "E-commerce"
+        "site_name": "Next-commerce"
     }
 }
